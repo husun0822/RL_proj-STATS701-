@@ -11,11 +11,11 @@
 - [MovieLens](http://files.grouplens.org/datasets/movielens/)
 
 ## Other Resources
-- [Python RL package *Gym*](https://gym.openai.com/docs/)
+- [Python RL package *Gym*](https://gym.openai.com/docs/): A python RL package with all basic RL models.
 - [Python package *RecNN*](https://github.com/awarebayes/RecNN): Includes multiple deep RL methods for recommender system.
 - [Tutorial on RS with Collaborative Filtering](https://pub.towardsai.net/recommendation-system-in-depth-tutorial-with-python-for-netflix-using-collaborative-filtering-533ff8a0e444): A tutorial about constructing RS with CF in python.
 - [Papers, tools and frameworks in RS (git repo)](https://github.com/daicoolb/RecommenderSystem-Paper/blob/master/README.md): Some papers on cold-start are included.
-- [Many Deep RL papers on RS](https://github.com/guyulongcs/Awesome-Deep-Reinforcement-Learning-Papers-for-Search-Recommendation-Advertising)
+- [Many Deep RL papers on RS](https://github.com/guyulongcs/Awesome-Deep-Reinforcement-Learning-Papers-for-Search-Recommendation-Advertising): A rather comprehensive list of papers on RS with RL.
 - [More RL papers on RS](https://github.com/henryslzhao/RL4Recsys): papers ordered by year.
 
 
