@@ -1,2 +1,3 @@
-# RL_proj-STATS701-
-Git repo for final project of STATS 701 (Reinforcement Learning)
+# Reinforcement Learning on Recommender System
+## Resources
+- [Papers, tools and frameworks in RS (git repo)](https://github.com/daicoolb/RecommenderSystem-Paper/blob/master/README.md)
