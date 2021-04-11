@@ -10,7 +10,7 @@
 - [Project on RS with RL](https://github.com/awarebayes/RecNN) A project on RL using DQN, DDPG, REINFORCE, etc. and was integrated as a toolkit. Both data and code are available.
 ## Datasets
 - [MovieLens](http://files.grouplens.org/datasets/movielens/)
-- [Steam] (https://github.com/AudreyGermain/Game-Recommendation-System#dataset)
+- [Steam](https://github.com/AudreyGermain/Game-Recommendation-System#dataset)
 
 ## Other Resources
 - [Python RL package *Gym*](https://gym.openai.com/docs/): A python RL package with all basic RL models.
