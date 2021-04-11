@@ -17,5 +17,6 @@
 - [Papers, tools and frameworks in RS (git repo)](https://github.com/daicoolb/RecommenderSystem-Paper/blob/master/README.md): Some papers on cold-start are included.
 - [Many Deep RL papers on RS](https://github.com/guyulongcs/Awesome-Deep-Reinforcement-Learning-Papers-for-Search-Recommendation-Advertising): A rather comprehensive list of papers on RS with RL.
 - [More RL papers on RS](https://github.com/henryslzhao/RL4Recsys): papers ordered by year.
+- [A blogger on Deep RL](https://medium.com/@thechrisyoon): A blogger with good intro-level articles on deep RL.
 
 
