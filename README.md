@@ -6,9 +6,11 @@
 - [RL based movie RS](https://github.com/PierreGe/RL-movie-recommender): A student-level project with bandit method.
 - [List-wise Deep RL for MovieLens](https://github.com/egipcy/LIRD): Using the Deep Deterministic Policy Gradient (DDPG) for MovieLens 100K dataset. More source code [here](https://github.com/luozachary/drl-rec).
 - [Course project on RS with RL](https://github.com/shashist/recsys-rl): A student course project on MovieLens recommendation with DDPG, Neu-CF. Both data and codes are available.
-
+- [RL in Tensorflow] (https://github.com/awjuliani/DeepRL-Agents) Deep Reinforcement Learning Agents
+- [Project on RS with RL] (https://github.com/awarebayes/RecNN) A project on RL using DQN, DDPG, REINFORCE, etc. and was integrated as a toolkit. Both data and code are available.
 ## Datasets
 - [MovieLens](http://files.grouplens.org/datasets/movielens/)
+- [Steam] (https://github.com/AudreyGermain/Game-Recommendation-System#dataset)
 
 ## Other Resources
 - [Python RL package *Gym*](https://gym.openai.com/docs/): A python RL package with all basic RL models.
